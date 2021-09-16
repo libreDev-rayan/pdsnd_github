@@ -7,7 +7,7 @@ Include the date you created this project and README file.
 pdsnd_github project
 
 ### Description
-project to learn who to dewa with git & github
+project to learn who to deal with git & github
 
 ### Files used
 bikeshare.py & csv files for NYC & chicago &washington
