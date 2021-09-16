@@ -4,14 +4,14 @@
 Include the date you created this project and README file.
 
 ### Project Title
-Replace the Project Title
+pdsnd_github project
 
 ### Description
-Describe what your project is about and what it does
+project to learn who to dewa with git & github
 
 ### Files used
-Include the files used
-
+bikeshare.py & csv files for NYC & chicago &washington
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+Udacity 
+https://github.com/udacity/pdsnd_github
 
